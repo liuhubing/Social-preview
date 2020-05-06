@@ -1,5 +1,2 @@
-# hello-world
+# Social preview
 
-Hi, every body~
-
-test
