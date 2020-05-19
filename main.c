@@ -4,6 +4,6 @@ int main()
 {
 	int i;
 	for(i = 0; i < 10; i++)
-		printf("Error: %d\n", i);
+		printf("Count : %d\n", i);
 	return 0;
 }
