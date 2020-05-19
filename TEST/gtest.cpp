@@ -3,7 +3,7 @@
 
 TEST(AddTest, HandlerTrueReturn)
 {
-	ASSERT_TRUE(add(1, 2) == 4);
+	ASSERT_TRUE(add(1, 2) == 3);
 }
 
 int main(int argc, char*argv[])
